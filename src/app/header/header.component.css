@@ -27,19 +27,17 @@ background-color: blue;
     height: 75%;
     background-color: rgb(60, 227, 249); 
 }
-
-.uno{
-    width: 700px;
-    height: 700px;
-    background-color: darkseagreen;
+.mainmenu{
+    padding: 0px;
     display: flex;
-    flex-direction: row;
-    justify-content: center; 
-    align-items: center;
+    justify-content: space-between;
 }
 
-.dos{
-    width: 170px;
-    height: 170px;
-    background-color: rgb(255, 179, 0);
+.mainmenu li {
+    display: inline;
+    color: aliceblue;
+}
+
+.encabezado {
+    background-color: rgb(124, 18, 18);
 }

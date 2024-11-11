@@ -1,0 +1,41 @@
+.menu{
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu li{
+    display: inline;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+header {
+    
+    background-color: rgba(236, 71, 107, .7);
+    width: 100%;
+    height: 5rem;
+    padding: 5px;
+    margin-top: 20px;
+}
+.what{
+    width: 3rem;
+    height: auto;
+    cursor: help;
+}
+
+a{
+    color: bisque;
+    }
+
+a:hover{
+    color: rgb(250, 246, 17);
+}
+.textoprincipal{
+    padding: 40px;
+    z-index: 1;
+    color: aliceblue;
+    font-size: 20px;
+}
+
