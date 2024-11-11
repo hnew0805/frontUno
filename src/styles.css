@@ -10,5 +10,8 @@ h1{
     font-size: 50px;
     z-index: 2;
     text-align: center;
+    border-style: solid;
+    width: 90%;
+    margin: auto;
 }
 
